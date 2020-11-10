@@ -1,2 +1,64 @@
-/* OBFUSasdadasdaaffdsCATED BY CSSOBFUSCATOR.COM at 2020/11/10 15:18:42 */
-.header{top:0;}#isi_header{float:right;}.header{left:0;}.header{z-index:1;}.header{position:fixed;}#isi_header{padding-top:25px;}.header{width:100%;}#isi_header{text-decoration:none;}#isi_header:active,#isi_header2 i,#isi_header:hover{color:#d8232a;}html{background-color:#22272c;}.header{height:4.6875pc;}.header{background-color:#2e343b;}html{font-family:"IBM Plex Sans",sans-serif;}.header,#isi_header,#isi_header2{display:inline;}#isi_header{font-size:.197916667in;}[class~=page_header]{margin-left:20%;}[class~=page_header]{margin-right:20%;}#isi_header2 i{font-size:50px;}#isi_header{padding-left:1.5625pc;}#isi_header2 i{padding-top:7.5pt;}#isi_header{color:#e6f1ff;}
+html{
+    background-color: #22272c;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.header{
+    top: 0;
+	left: 0;
+	z-index: 1;
+	position: fixed;
+	width: 100%;
+	height: 75px;
+    background-color: #2e343b;
+    display: inline;
+}
+
+.page_header{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#isi_header{
+    float: right;
+    padding-top: 25px;
+    text-decoration: none;
+    font-size: 19px;
+    padding-left: 25px;
+    display: inline;
+	color: #e6f1ff;
+}
+
+#isi_header2{
+    display: inline;
+}
+
+#isi_header2 i{
+    font-size: 50px;
+    padding-top: 10px;
+    color: #d8232a;
+}
+
+.aktif{
+    color: #d8232a;
+}
+
+#isi_header:hover{
+    color: #d8232a;
+}
+
+.main{
+    margin-top: 150px;
+}
+
+.page_main{
+    color: #e6f1ff;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.judul_main h1{
+    width: 75%;
+    font-size: 45px;
+}
+
