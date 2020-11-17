@@ -133,15 +133,19 @@ html{
 
 .anggota{
     text-align: center;
-    padding-right: 45px;
+    padding: 0 25px;
     margin-top: 30px;
-    max-width: 150px;
     display: inline-block;
 }
 
 .anggota img{
     border-radius: 100%;
     width: 130px;
+    transition: 0.5s;
+}
+
+.anggota img:hover{
+    width: 200px;
 }
 
 .anggota #nama{
